@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Site André Carepa',
-  tagline: 'docusaurus-ghpages',
+  tagline: 'Viagem ao Porto',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
